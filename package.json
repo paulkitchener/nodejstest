@@ -1,0 +1,27 @@
+{
+  "name": "dockernode",
+  "version": "1.0.0",
+  "description": "test dockernode",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulkitchener/nodejstest.git"
+  },
+  "keywords": [
+    "nodejs",
+    "Test"
+  ],
+  "author": "Paul Kitchener",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulkitchener/nodejstest/issues"
+  },
+"dependencies": {
+  "express": "3.2.4"
+  },
+  "homepage": "https://github.com/paulkitchener/nodejstest#readme"
+}
