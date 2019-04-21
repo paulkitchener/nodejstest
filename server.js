@@ -11,7 +11,7 @@ app.get('/', function (req, res){
 
 app.listen(PORT);
 <<<<<<< HEAD
-console.log('  Running on http://localhost: ' + PORT);
+console.log('   Running on http://localhost:   ' + PORT);
 =======
-console.log('  Running on http://localhost:  ' + PORT);
+console.log('   Running on http://localhost:   ' + PORT);
 >>>>>>> test-branch
