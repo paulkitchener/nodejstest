@@ -10,12 +10,4 @@ app.get('/', function (req, res){
 });
 
 app.listen(PORT);
-<<<<<<< HEAD
-<<<<<<< HEAD
-console.log('   Running on http://localhost:   ' + PORT);
-=======
-console.log('   Running on http://localhost:   ' + PORT);
->>>>>>> test-branch
-=======
 console.log('---Running on http://localhost:---' + PORT);
->>>>>>> test-branch
