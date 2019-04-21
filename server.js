@@ -17,5 +17,5 @@ console.log('   Running on http://localhost:   ' + PORT);
 console.log('   Running on http://localhost:   ' + PORT);
 >>>>>>> test-branch
 =======
-console.log('--Running on http://localhost:--' + PORT);
+console.log('---Running on http://localhost:---' + PORT);
 >>>>>>> test-branch
